@@ -1,4 +1,4 @@
-# 7Vidas
+# Pokemon
 Pagina web "Memory in Pokemon"
 ![Vista Preliminar](https://github.com/Paolo9518/Pokemon/blob/main/imagenes/capturaPokemon.PNG)
 
