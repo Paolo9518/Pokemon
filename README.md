@@ -1,6 +1,6 @@
 # 7Vidas
 Pagina web "Memory in Pokemon"
-![Vista Preliminar](https://github.com/Paolo9518/7Vidas/blob/master/img/Captura.PNG)
+![Vista Preliminar](https://github.com/Paolo9518/Pokemon/blob/main/imagenes/capturaPokemon.PNG)
 
 ## Comenzando 🚀
 
